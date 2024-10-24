@@ -1,0 +1,75 @@
+h1 {
+  text-align: center;
+  border-bottom: 5px solid #707793;
+  color: #3BBA9C;
+}
+
+.display {
+  display: flex;
+  justify-content: center;
+  border-top: 5px solid #707793;
+  border-bottom: 5px solid #707793;
+  background-color: #3BBA9C;
+  border-left: 10px solid #707793;
+  border-right: 10px solid #707793;
+}
+
+.column {
+  width: 18%;
+  padding: 25px 0px;
+}
+
+.images img {
+  display: block;
+  height: 100px;
+  width: auto;
+  margin: 20px;
+}
+
+.songs p {
+  font-size: 18px;
+  height: 100px;
+  font-weight: bold;
+  margin: 20px;
+}
+
+.artists p {
+  font-size: 18px;
+  height: 100px;
+  margin: 20px;
+}
+
+.lengths p {
+  font-size: 16px;
+  height: 100px;
+  margin: 20px;
+  text-align: right;
+}
+
+.links a {
+  display: block;
+  font-size: 18px;
+  height: 100px;
+  font-weight: bold;
+  margin: 20px;
+  width: 20px;
+}
+
+.form {
+  width: 60%;
+  margin: 0 auto 20px auto;
+  font-size: 18px;
+}
+
+input {
+  padding: 5px 10px;
+  font-size: 14px;
+}
+
+button {
+  font-size: 14px;
+  padding: 5px 10px;
+}
+body {
+  background-color: #2E3047;
+}
